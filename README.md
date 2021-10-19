@@ -15,9 +15,9 @@ Figure 2. A visual guide to constructing a Corsi-Rosenthal cube with a box fan a
 ## Safety
 Filtering the intake of a box fan will increase the load on the motor running the fan, so it will reach higher temperatures than if used in the open. [An Evaluation of DIY Air Filtration](https://chemicalinsights.org/wp-content/uploads/DIY-Box-Fan-Report-2021.pdf?utm_source=Chemical+Insights&utm_campaign=d52ba63ea8-July_2021_Newsletter7_13_2021_13_4&utm_medium=email&utm_term=0_09fecf83d2-d52ba63ea8-119531236) is a study of box fan/filter constructions with an eye toward fire safety, the resulting conclusion: 
 `Overall, all measured temperatures of the fans under the conditions described in this study were lower than the maximum allowable
-temperatures in UL 507.`
+temperatures in UL 507.` In short, the fan will run a little hotter than usual, but should not pose a significant fire risk.
 
-## More Reading
+## More Reading and Links
 
 [Physicist, Non-Profits Test Air Purifiers to Promote Health and Learning](https://www.youtube.com/watch?v=A7B7t4DUMOA) is a short video at Youtube from [https://cleanarair.com/](https://cleanarair.com/), which also has lesson plans and lots more!
 
