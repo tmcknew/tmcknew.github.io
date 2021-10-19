@@ -3,8 +3,11 @@
 
 This page is a collection of resources for making Corsi-Rosenthal Cubes (or Comparetto cubes). A simple, inexpensive and effective air cleaner can be made with a 20" box fan, a few 20" furnace filters, and some tape. These devices can be used to reduce the tranmission risk of airborne pathogens, as well as removing hamful particulate matter. 
 
+Cost per unit is approx $20 for the box fan, $12-15 per filter (units can be built with up to 5 filters, more filters will mean more throughput and more clean air), and about 30 feet of 2-inch tape.
+
 ## Construction
 ![Image](box.png)
+
 Figure 2. A visual guide to constructing a Corsi-Rosenthal cube with a box fan and MERV filters with a top fan configuration. Air is pulled into filters (red arrows) and blows out of fan (green arrows). Photo by [CC-BY al.hu](https://www.flickr.com/photos/23309579@N04/51335349886/in/dateposted-public/).
 
 [Corsi-Rosenthal Cube at Encycla.com](https://encycla.com/Corsi-Rosenthal_Cube) is a good resource with a Construction guide, Filter brands to potentially avoid, Variations, History, Room sizing & placement, Power usage, noise & safety, and News / media stories.
